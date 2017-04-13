@@ -1,0 +1,15 @@
+String      Prob        Next        Left        Tree right  
+
+dcgbafh     50          NULL        dc          gbafh       
+dc          22          gbafh       d           c           
+d           10          c           NULL        NULL        
+c           12          gbaf        NULL        NULL        
+gbafh       28          e           gbaf        h           
+gbaf        13          h           g           baf         
+g           5           baf         NULL        NULL        
+baf         8           d           b           af          
+b           3           af          NULL        NULL        
+af          5           g           a           f           
+a           2           f           NULL        NULL        
+f           3           b           NULL        NULL        
+h           15          dc          NULL        NULL        
